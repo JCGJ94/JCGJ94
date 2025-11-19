@@ -1,8 +1,9 @@
 # 👋 Hola, soy Jose C González
 
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=200&section=header&text=Welcome%20to%20my%20code%20universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=220&section=header&text=Construyendo%20el%20futuro%20con%20código&fontSize=40&fontAlignY=32&animation=twinkling&fontColor=fff&desc=JC_Code&descSize=24&descAlignY=58&descAlign=50)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=230&section=header&text=Construyendo%20el%20futuro%20con%20código&fontSize=40&fontAlignY=30&animation=twinkling&fontColor=fff&desc=JC_Code&descSize=26&descAlignY=60&descAlign=50)
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Frontend+Specialist;Building+Modern+Web+Apps;Python+%7C+React+%7C+Flask)](https://git.io/typing-svg)
 
@@ -118,44 +119,44 @@ Soy una persona **colaborativa, proactiva y orientada al detalle**, con ganas de
 
 ## 🚀 Proyectos Destacados
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <h3>💼 Portfolio Personal</h3>
-    <a href="https://github.com/JCGJ94/MyPortfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=MyPortfolio&theme=tokyonight" alt="MyPortfolio"/>
-    </a>
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <h3>⚽ Sport Bar League</h3>
-    <a href="https://github.com/JCGJ94/JCGJ94-SportBarLeague">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-SportBarLeague&theme=tokyonight" alt="SportBarLeague"/>
-    </a>
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <h3>🎮 Pokémons Blog</h3>
-    <a href="https://github.com/JCGJ94/JCGJ94-Pokemons-Blog">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Pokemons-Blog&theme=tokyonight" alt="Pokemons Blog"/>
-    </a>
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <h3>🔐 Autenticación JWT</h3>
-    <a href="https://github.com/JCGJ94/JCGJ94-Autenticacion_JWT">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Autenticacion_JWT&theme=tokyonight" alt="Autenticacion JWT"/>
-    </a>
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <h3>🌐 WebDev - Proyecto Colaborativo</h3>
-    <a href="https://github.com/SergioGala/WebDev">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioGala&repo=WebDev&theme=tokyonight" alt="WebDev"/>
-    </a>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💼 Portfolio Personal</h3>
+      <a href="https://github.com/JCGJ94/MyPortfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=MyPortfolio&theme=tokyonight" alt="MyPortfolio"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>⚽ Sport Bar League</h3>
+      <a href="https://github.com/JCGJ94/JCGJ94-SportBarLeague">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-SportBarLeague&theme=tokyonight" alt="SportBarLeague"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎮 Pokémons Blog</h3>
+      <a href="https://github.com/JCGJ94/JCGJ94-Pokemons-Blog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Pokemons-Blog&theme=tokyonight" alt="Pokemons Blog"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🔐 Autenticación JWT</h3>
+      <a href="https://github.com/JCGJ94/JCGJ94-Autenticacion_JWT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Autenticacion_JWT&theme=tokyonight" alt="Autenticacion JWT"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2" align="center">
+      <h3>🌐 WebDev - Proyecto Colaborativo</h3>
+      <a href="https://github.com/SergioGala/WebDev">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioGala&repo=WebDev&theme=tokyonight" alt="WebDev"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚧-En_desarrollo-orange?style=for-the-badge" alt="En desarrollo"/>
