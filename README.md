@@ -109,7 +109,8 @@ Soy una persona **colaborativa, proactiva y orientada al detalle**, con ganas de
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JCGJ94&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JCGJ94)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 </div>
 
@@ -117,29 +118,50 @@ Soy una persona **colaborativa, proactiva y orientada al detalle**, con ganas de
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-### 💼 Portfolio Personal
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=MyPortfolio&theme=tokyonight)](https://github.com/JCGJ94/MyPortfolio)
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <h3>💼 Portfolio Personal</h3>
+    <a href="https://github.com/JCGJ94/MyPortfolio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=MyPortfolio&theme=tokyonight" alt="MyPortfolio"/>
+    </a>
+  </div>
 
-### ⚽ Sport Bar League
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-SportBarLeague&theme=tokyonight)](https://github.com/JCGJ94/JCGJ94-SportBarLeague)
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <h3>⚽ Sport Bar League</h3>
+    <a href="https://github.com/JCGJ94/JCGJ94-SportBarLeague">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-SportBarLeague&theme=tokyonight" alt="SportBarLeague"/>
+    </a>
+  </div>
 
-### 🎮 Pokémons Blog
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Pokemons-Blog&theme=tokyonight)](https://github.com/JCGJ94/JCGJ94-Pokemons-Blog)
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <h3>🎮 Pokémons Blog</h3>
+    <a href="https://github.com/JCGJ94/JCGJ94-Pokemons-Blog">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Pokemons-Blog&theme=tokyonight" alt="Pokemons Blog"/>
+    </a>
+  </div>
 
-### 🔐 Autenticación JWT
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Autenticacion_JWT&theme=tokyonight)](https://github.com/JCGJ94/JCGJ94-Autenticacion_JWT)
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <h3>🔐 Autenticación JWT</h3>
+    <a href="https://github.com/JCGJ94/JCGJ94-Autenticacion_JWT">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Autenticacion_JWT&theme=tokyonight" alt="Autenticacion JWT"/>
+    </a>
+  </div>
 
-### 🌐 WebDev - Proyecto Colaborativo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioGala&repo=WebDev&theme=tokyonight)](https://github.com/SergioGala/WebDev)
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <h3>🌐 WebDev - Proyecto Colaborativo</h3>
+    <a href="https://github.com/SergioGala/WebDev">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioGala&repo=WebDev&theme=tokyonight" alt="WebDev"/>
+    </a>
+  </div>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚧-En_desarrollo-orange?style=for-the-badge" alt="En desarrollo"/>
   <img src="https://img.shields.io/badge/👥-Proyecto_colaborativo-purple?style=for-the-badge" alt="Colaborativo"/>
 </p>
 
-</div>
 
 ---
 
@@ -170,13 +192,5 @@ skills = {
 ```
 
 ---
-
-<div align="center">
-  
-  ### 💬 "First, solve the problem. Then, write the code." - John Johnson
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=JCGJ94&color=blueviolet&style=for-the-badge)
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=100&section=footer)
-  
-</div>
+### 💬 *"First, solve the problem. Then, write the code."*  
+— John Johnson
