@@ -1,9 +1,8 @@
 # 👋 Hola, soy Jose C González
 
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=220&section=header&text=Construyendo%20el%20futuro%20con%20código&fontSize=40&fontAlignY=32&animation=twinkling&fontColor=fff&desc=JC_Code&descSize=24&descAlignY=58&descAlign=50)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=230&section=header&text=Construyendo%20el%20futuro%20con%20código&fontSize=40&fontAlignY=30&animation=twinkling&fontColor=fff&desc=JC_Code&descSize=26&descAlignY=60&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=230&section=header&text=Construyendo%20el%20futuro%20con%20código&fontSize=40&fontAlignY=30&animation=twinkling&fontColor=fff&desc=JC_Code&descSize=26&descAlignY=60&descAlign=50)
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Frontend+Specialist;Building+Modern+Web+Apps;Python+%7C+React+%7C+Flask)](https://git.io/typing-svg)
 
