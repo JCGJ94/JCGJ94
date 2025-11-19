@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=200&section=header&text=Welcome%20to%20my%20code%20universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Frontend+Specialist;Building+Modern+Web+Apps;Python+%7C+React+%7C+Flask)](https://git.io/typing-svg)
 
@@ -32,35 +32,42 @@ Soy una persona **colaborativa, proactiva y orientada al detalle**, con ganas de
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías y herramientas que uso
 
-### 🎨 Frontend Development
+### 🎨 Frontend
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/CSS_Clamp()-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Clamp"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-06B6D4?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design"/>
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful API"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 🔧 Tools & Development
+### 📊 Base de datos
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy"/>
 </p>
 
-### 🌐 Tools & Services
+### 🔧 Herramientas y servicios
+
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
@@ -71,7 +78,8 @@ Soy una persona **colaborativa, proactiva y orientada al detalle**, con ganas de
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
 </p>
 
 ### 🗣️ Idiomas
@@ -111,14 +119,27 @@ Soy una persona **colaborativa, proactiva y orientada al detalle**, con ganas de
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=nombre-proyecto-1&theme=tokyonight)](https://github.com/JCGJ94/MyPortfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=nombre-proyecto-2&theme=tokyonight)](https://github.com/JCGJ94/JCGJ94-SportBarLeague)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=nombre-proyecto-3&theme=tokyonight)](https://github.com/JCGJ94/JCGJ94-Pokemons-Blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=nombre-proyecto-4&theme=tokyonight)]()
+### 💼 Portfolio Personal
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=MyPortfolio&theme=tokyonight)](https://github.com/JCGJ94/MyPortfolio)
+
+### ⚽ Sport Bar League
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-SportBarLeague&theme=tokyonight)](https://github.com/JCGJ94/JCGJ94-SportBarLeague)
+
+### 🎮 Pokémons Blog
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Pokemons-Blog&theme=tokyonight)](https://github.com/JCGJ94/JCGJ94-Pokemons-Blog)
+
+### 🔐 Autenticación JWT
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Autenticacion_JWT&theme=tokyonight)](https://github.com/JCGJ94/JCGJ94-Autenticacion_JWT)
+
+### 🌐 WebDev - Proyecto Colaborativo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioGala&repo=WebDev&theme=tokyonight)](https://github.com/SergioGala/WebDev)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚧-En_desarrollo-orange?style=for-the-badge" alt="En desarrollo"/>
+  <img src="https://img.shields.io/badge/👥-Proyecto_colaborativo-purple?style=for-the-badge" alt="Colaborativo"/>
+</p>
 
 </div>
-
-> 💡 **Nota:** Reemplaza `nombre-proyecto-1`, `nombre-proyecto-2`, etc. con los nombres reales de tus repositorios destacados
 
 ---
 
@@ -129,11 +150,8 @@ Soy una persona **colaborativa, proactiva y orientada al detalle**, con ganas de
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcgj94/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCGJ94)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcdevelopment94@gmail.com)
-  [![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/JCGJ94/JCGJ94-Autenticacion_JWT)
+  [![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://app.enhancv.com/share/c5629b81/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=proyecto-colaborativo&theme=tokyonight)](https://github.com/SergioGala/WebDev)
-
-> 🚧 **En desarrollo** | 👥 **Proyecto colaborativo**
 </div>
 
 ---
@@ -145,7 +163,7 @@ skills = {
     "frontend": ["React", "JavaScript", "Bootstrap", "CSS3", "HTML5"],
     "backend": ["Python", "Flask", "PostgreSQL", "SQLAlchemy", "REST APIs"],
     "tools": ["Git", "GitHub", "VSCode", "Figma", "Postman"],
-    "services": ["Docker", "NPM", "Yarn", "Firebase", "Netlify", "Heroku", "AWS"],
+    "services": ["Docker", "NPM", "Yarn", "Firebase", "Netlify", "Heroku"],
     "principles": ["Clean Code", "SOLID", "Responsive Design", "REST", "Agile"],
     "soft_skills": ["Trabajo en equipo", "Comunicación", "Resolución de problemas"]
 }
