@@ -16,7 +16,7 @@ const joseGonzalez = {
   focus: "Frontend Development",
   email: "jcdevelopment94@gmail.com",
   location: "🌍 Spain",
-  motto: "Código limpio, soluciones efectivas 💻"
+  motto: "Código limpio, escalable y buenas prácticas 💻"
 };
 ```
 
