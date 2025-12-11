@@ -66,7 +66,7 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
 </div>
 
 ## 🚀 Proyectos Destacados
-
+<div align="center">
 <table>
   <tr>
     <td width="50%" align="center">
@@ -127,7 +127,7 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
     </td>
   </tr>
 </table>
-
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/🚧-En_desarrollo-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/👥-Proyecto_colaborativo-purple?style=for-the-badge"/>
