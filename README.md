@@ -59,17 +59,10 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
 ## 📊 GitHub Stats
 
   
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JCGJ94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JCGJ94&layout=compact&langs_count=8&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=JCGJ94&theme=tokyonight)
-
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JCGJ94&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCGJ94&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JCGJ94&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JCGJ94&theme=tokyonight"/>
 </div>
 
 ## 🚀 Proyectos Destacados
