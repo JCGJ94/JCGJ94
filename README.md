@@ -94,7 +94,6 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
         🔗 <a href="https://github.com/JCGJ94/MyPortfolio">Repositorio</a>  
       </p>
     </td>
-
     <td width="50%" align="center">
       <h3>⚽ Sport Bar League</h3>
       <a href="https://github.com/JCGJ94/JCGJ94-SportBarLeague">
@@ -105,7 +104,6 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" align="center">
       <h3>🔧 Taller El Cardonal</h3>
@@ -118,7 +116,6 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
         | 🌐 <a href="https://www.tallercardonal.es/">Web</a>
       </p>
     </td>
-
     <td width="50%" align="center">
       <h3>🤝 Freelance – JEG STUDIOS (CodeNinja)</h3>
       <a href="https://github.com/JCGJ94/CodeNinja">
@@ -131,9 +128,8 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
       </p>
     </td>
   </tr>
-
   <tr>
-    <td width="100%" colspan="2" align="center">
+    <td width="50%" align="center">
       <h3>🌐 WebDev – Proyecto Colaborativo</h3>
       <a href="https://github.com/SergioGala/WebDev">
         <img src="https://img.shields.io/badge/WebDev-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="WebDev"/>
@@ -142,6 +138,9 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
         🔗 <a href="https://github.com/SergioGala/WebDev">Repositorio</a>
       </p>
     </td>
+    <td width="50%" align="center">
+      <!-- Celda vacía o agrega otro proyecto aquí -->
+    </td>
   </tr>
 </table>
 
@@ -149,9 +148,6 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
   <img src="https://img.shields.io/badge/🚧-En_desarrollo-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/👥-Proyecto_colaborativo-purple?style=for-the-badge"/>
 </p>
-
-
-
 ---
 
 ## 🌍 Conecta Conmigo
