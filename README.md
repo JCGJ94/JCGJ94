@@ -59,13 +59,12 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCGJ94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCGJ94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCGJ94&layout=compact&langs_count=8&theme=tokyonight"/>
-</div> 
+</div>
+
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCGJ94&theme=tokyonight)](https://git.io/streak-stats)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGJ94&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -73,10 +72,7 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JCGJ94)](https://github.com/ryo-ma/github-profile-trophy)
-
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=JCGJ94&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -139,7 +135,7 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
       </p>
     </td>
     <td width="50%" align="center">
-      <!-- Celda vacía o agrega otro proyecto aquí -->
+      <!-- siguiente proyecto -->
     </td>
   </tr>
 </table>
