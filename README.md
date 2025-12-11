@@ -58,16 +58,13 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JCGJ94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JCGJ94&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JCGJ94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JCGJ94&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JCGJ94&layout=compact&langs_count=8&theme=tokyonight)
 
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=JCGJ94&theme=tokyonight)
+
 
 ## 🏆 GitHub Trophies
 
