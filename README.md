@@ -92,37 +92,66 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
       <a href="https://github.com/JCGJ94/MyPortfolio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=MyPortfolio&theme=tokyonight" alt="MyPortfolio"/>
       </a>
+      <p align="center">
+        🔗 <a href="https://github.com/JCGJ94/MyPortfolio">Repositorio</a>
+      </p>
     </td>
+
     <td width="50%">
       <h3>⚽ Sport Bar League</h3>
       <a href="https://github.com/JCGJ94/JCGJ94-SportBarLeague">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-SportBarLeague&theme=tokyonight" alt="SportBarLeague"/>
       </a>
+      <p align="center">
+        🔗 <a href="https://github.com/JCGJ94/JCGJ94-SportBarLeague">Repositorio</a>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3>🎮 Pokémons Blog</h3>
-      <a href="https://github.com/JCGJ94/JCGJ94-Pokemons-Blog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Pokemons-Blog&theme=tokyonight" alt="Pokemons Blog"/>
+      <h3>🔧 Taller El Cardonal</h3>
+      <a href="https://www.tallercardonal.es/">
+        <img src="https://img.shields.io/badge/Taller%20El%20Cardonal-Web%20Freelance-F97316?style=for-the-badge" alt="Taller El Cardonal"/>
       </a>
+
+      <p align="center"><i>Desarrollo completo en React + SEO + EmailJS + WhatsApp + despliegue</i></p>
+
+      <p align="center">
+        🔗 <a href="https://github.com/JCGJ94/Taller-de-mecanica-El-Cardonal">Repositorio</a>  
+        | 🌐 <a href="https://www.tallercardonal.es/">Sitio Web</a>
+      </p>
     </td>
+
     <td width="50%">
-      <h3>🔐 Autenticación JWT</h3>
-      <a href="https://github.com/JCGJ94/JCGJ94-Autenticacion_JWT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCGJ94&repo=JCGJ94-Autenticacion_JWT&theme=tokyonight" alt="Autenticacion JWT"/>
+      <h3>🤝 Colaboración Freelance – JEG STUDIOS</h3>
+      <a href="https://github.com/JCGJ94/CodeNinja">
+        <img src="https://img.shields.io/badge/JEG%20STUDIOS-CodeNinja-0A6FF0?style=for-the-badge&logo=react&logoColor=white" alt="JEG Studios Web"/>
       </a>
+
+      <p align="center"><i>Desarrollo frontend, plantillas, SEO y optimización</i></p>
+
+      <p align="center">
+        🔗 <a href="https://github.com/JCGJ94/CodeNinja">Repositorio</a>  
+        | 🌐 <a href="https://www.jegsdev.com/">Sitio Oficial</a>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" colspan="2" align="center">
       <h3>🌐 WebDev - Proyecto Colaborativo</h3>
       <a href="https://github.com/SergioGala/WebDev">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioGala&repo=WebDev&theme=tokyonight" alt="WebDev"/>
       </a>
+
+      <p align="center">
+        🔗 <a href="https://github.com/SergioGala/WebDev">Repositorio</a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚧-En_desarrollo-orange?style=for-the-badge" alt="En desarrollo"/>
@@ -149,15 +178,51 @@ Interesado en buenas prácticas, estructura clara de proyectos y flujos de desar
 
 ```python
 skills = {
-    "frontend": ["React", "JavaScript", "Bootstrap", "CSS3", "HTML5"],
-    "backend": ["Python", "Flask", "PostgreSQL", "SQLAlchemy", "REST APIs"],
-    "tools": ["Git", "GitHub", "VSCode", "Figma", "Postman"],
-    "services": ["Docker", "NPM", "Yarn", "Firebase", "Netlify", "Heroku"],
-    "principles": ["Clean Code", "SOLID", "Responsive Design", "REST", "Agile"],
-    "soft_skills": ["Trabajo en equipo", "Comunicación", "Resolución de problemas"]
-}
-```
+    "frontend": [
+        "React", "JavaScript", "Bootstrap", "CSS3", "HTML5",
+        "Responsive Design", "CSS Clamp()", "Figma"
+    ],
 
+    "backend": [
+        "Python", "Flask", "PostgreSQL", "SQLAlchemy",
+        "REST APIs", "JWT Authentication"
+    ],
+
+    "devops_deploy": [
+        "Vercel", "Netlify", "OVHcloud", "Render"
+    ],
+
+    "tools": [
+        "Git", "GitHub", "VSCode", "Postman", "npm", "pnpm"
+    ],
+
+    "digital_marketing": [
+        "Google Ads", "Google Analytics", "Meta Ads", "SEO Técnico"
+    ],
+
+   "integrations": [
+    "EmailJS",
+    "WhatsApp Direct Link",
+    "React Router",
+    "React Hooks (useState, useEffect, useRef, useContext)",
+    "Context API",
+    "Axios / Fetch API",
+    "Google Analytics (GA4 events)",
+    "Google Ads Tracking",
+    "Meta Pixel",
+    "Google Tag Manager (básico)",
+    "Map Integrations (Leaflet / Google Maps Embed)"
+],
+
+    "principles": [
+        "Clean Code", "SOLID", "Agile", "Project Organization"
+    ],
+
+    "soft_skills": [
+        "Trabajo en equipo", "Comunicación", "Proactividad",
+        "Resolución de problemas", "Atención al detalle"
+    ]
+}
 ---
 ### 💬 *"First, solve the problem. Then, write the code."*  
 — John Johnson
