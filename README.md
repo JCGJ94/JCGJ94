@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=220&section=header&text=AI-Powered%20Web%20Applications&fontSize=38&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60)
 
-[Portfolio](https://https://www.jccode.dev/) • 
+[Portfolio](https://www.jccode.dev/) • 
 [LinkedIn](https://www.linkedin.com/in/jcgj94/) • 
 [GitHub](https://github.com/JCGJ94)
 
