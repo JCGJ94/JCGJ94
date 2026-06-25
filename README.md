@@ -2,10 +2,8 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=220&section=header&text=AI-Powered%20Web%20Applications&fontSize=38&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60)
-
-[Portfolio](https://www.jccode.dev/) • 
-[LinkedIn](https://www.linkedin.com/in/jcgj94/) • 
+[Portfolio](https://www.jccode.dev/) •
+[LinkedIn](https://www.linkedin.com/in/jcgj94/) •
 [GitHub](https://github.com/JCGJ94)
 
 </div>
@@ -14,38 +12,45 @@
 
 ## Profile
 
-Full Stack developer building modern web applications and backend systems.
+Full Stack Developer with interest in **backend systems, APIs and AI-related applications**.
 
-My technical foundation is centered around the **JavaScript ecosystem (React, Next.js, Node/NestJS)** where I have built real-world applications and production projects.
+My base comes from the **JavaScript/TypeScript ecosystem**, working with **React, Next.js, Node.js and NestJS** to build web applications and different types of projects.
 
-Currently I am expanding my focus towards **backend systems and AI-powered applications**, integrating **LLMs, AI APIs and intelligent automation** into web platforms.
+Lately I’ve been moving more into **Python backend development and AI**, trying things with **LLMs, APIs and simple agent workflows** and seeing how they can fit into real applications.
 
-My professional direction combines:
+What I usually work on:
 
-• Product development  
-• Backend architecture  
-• AI integration in real applications  
+* Full Stack development
+* Backend logic and APIs
+* Python backend projects
+* AI integrations in apps
+* Using AI tools during development
 
 ---
 
 ## Current Focus
 
-I am currently deepening my knowledge in:
+Right now I’m spending time learning and building around:
 
-• Python backend development  
-• AI-powered applications  
-• LLM integrations  
-• API and system architecture  
+* Python backend development
+* FastAPI and Flask
+* API design and structure
+* LLM integrations
+* AI agents and workflows
+* Basic RAG ideas
+* Spec-Driven Development
+* Testing and TDD basics
+* Working with AI tools while coding
 
-The goal is to build systems where **AI becomes a real functional component of the product**, not just an external tool.
+The idea is to build apps where **AI is part of the system, not just something external**.
 
 ---
 
 ## Core Stack
+
 <div align="center">
 
-  
-  ### Frontend
+### Frontend
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -56,28 +61,43 @@ The goal is to build systems where **AI becomes a real functional component of t
 
 ### Backend
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 ---
 
-### Bases de datos
+### Databases
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 ---
 
-### Herramientas
+### AI & Developer Tools
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge"/>
+
+---
+
+### Tools & Deployment
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
+</div>
 
 ---
 
@@ -85,23 +105,52 @@ The goal is to build systems where **AI becomes a real functional component of t
 
 ---
 
+## Clinical AI Multi-Agent
+
+Backend-focused project around a **multi-agent clinical assistant idea**.
+
+Here I’m exploring how different agents using LLMs can work together inside a backend system, handling requests, routing and some domain logic.
+
+Key parts:
+
+* Python backend
+* FastAPI
+* Multi-agent setup
+* LLM routing
+* LangChain
+* PostgreSQL
+* SQLAlchemy async
+* Alembic
+* Docker
+* Some RAG ideas
+* Basic CI/CD setup
+
+Repository
+https://github.com/JCGJ94/Clinical-AI-Multi-Agent
+
+---
+
 ## NutriFlow
 
-AI-powered nutrition platform designed to generate personalized diet plans using generative AI and custom logic layers.
+Project focused on generating diet plans using AI and custom logic.
 
-Main characteristics:
+It mixes full stack development with backend structure and AI integration.
 
-• Backend architecture built with **NestJS**  
-• Integration with **Gemini AI API**  
-• Custom diet-generation engine  
-• PostgreSQL database  
-• Modular backend structure
+Main parts:
+
+* Backend with **NestJS**
+* **Gemini API** integration
+* Diet generation logic
+* PostgreSQL / Supabase
+* Modular backend
+* Full stack setup
+* Some testing structure
+* Monorepo
 
 Architecture documentation
-
 https://github.com/JCGJ94/NutriFlow-Project/blob/main/docs/architecture/diet-engine-architecture.es.md
 
-Repository  
+Repository
 https://github.com/JCGJ94/NutriFlow-Project
 
 Demo
@@ -111,86 +160,111 @@ https://nutri-flow-mu.vercel.app/
 
 ## Taller El Cardonal
 
-Production website developed for a real client.
+Website built for a real client.
 
-Scope of the project:
+This was more about delivering something usable and clear for a local business.
 
-• Frontend development  
-• SEO optimization  
-• Contact integrations  
-• Production deployment  
+What I worked on:
+
+* Frontend
+* Responsive layout
+* Basic SEO
+* Contact features
+* Deployment
+* Performance tweaks
 
 Stack:
 
 React · TypeScript · Vercel · SEO
 
-Live project  
-https://www.tallercardonal.es/
-
-Repository  
+Repository
 https://github.com/JCGJ94/Taller-de-mecanica-El-Cardonal
 
-
-In production
+Live project
 https://www.tallercardonal.es/
-
 
 ---
 
 ## JEG Studio
 
-Collaborative project focused on freelance web development and digital presence.
+Project done with others, focused on web development and digital presence.
 
-Features:
+Things involved:
 
-• Team collaboration  
-• Git workflow  
-• Frontend architecture  
-• scalable project structure
+* Working in a team
+* Git workflow
+* Frontend structure
+* Reusable components
+* Deployment
+* Landing page for services
 
-Repository  
+Repository
 https://github.com/JCGJ94/CodeNinja
 
-In production
+Live project
 https://www.jegsdev.com/
-
 
 ---
 
 ## SportBarLeague
 
-Full Stack application with a Python backend.
+Full Stack app with a Python backend.
 
-Key components:
+Part of my move into backend with Python, working with APIs, auth and data.
 
-• Flask backend  
-• SQLAlchemy ORM  
-• JWT authentication  
-• PostgreSQL database
+Key parts:
 
-This project represents part of my transition toward **Python backend development**.
+* Flask backend
+* SQLAlchemy
+* JWT auth
+* PostgreSQL
+* REST API
+* React frontend
 
-Repository  
+Repository
 https://github.com/JCGJ94/JCGJ94-SportBarLeague
 
 ---
 
 ## Development Direction
 
-My professional roadmap is currently focused on building systems that combine:
+Right now I’m trying to move towards systems that mix:
 
-• Backend engineering  
-• AI integrations  
-• modern web architectures  
+* Full Stack development
+* Backend work
+* Python APIs
+* AI integrations
+* Agent workflows
+* Web apps
+* Better code practices
 
-Progression path
+Progression path:
+
+```txt
 Frontend Development
-↓
-Full Stack Systems
-↓
-Backend Architecture
-↓
-AI-Powered Applications
+        ↓
+Full Stack Applications
+        ↓
+Backend Work
+        ↓
+AI-Based Projects
+        ↓
+Agent Systems
+```
+
+---
+
+## Professional Focus
+
+I’m mainly interested in roles related to:
+
+* Full Stack Development
+* Backend-focused roles
+* Python backend
+* API development
+* AI-related applications
+* LLM integrations
+* Developer tools
 
 ---
 
@@ -208,10 +282,13 @@ AI-Powered Applications
 
 <div align="center">
 
-Email  
-jcdevelopment94@gmail.com
+Email
+[jcdevelopment94@gmail.com](mailto:jcdevelopment94@gmail.com)
 
-LinkedIn  
+Portfolio
+https://www.jccode.dev/
+
+LinkedIn
 https://www.linkedin.com/in/jcgj94/
 
 </div>
