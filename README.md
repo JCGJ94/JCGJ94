@@ -1,300 +1,171 @@
-# Jose C González
-
 <div align="center">
-        
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,28&height=220&section=header&text=AI-Powered%20Web%20Applications&fontSize=38&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60)
 
-[Portfolio](https://www.jccode.dev/) •
-[LinkedIn](https://www.linkedin.com/in/jcgj94/) •
-[GitHub](https://github.com/JCGJ94)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=Jose%20Carlos%20Gonz%C3%A1lez&fontSize=44&fontColor=f8fafc&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20Python%20%C2%B7%20APIs%20%26%20Generative%20AI&descSize=17&descAlignY=60" alt="Jose Carlos González — Full Stack Developer, Backend Python, APIs and Generative AI"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=60A5FA&center=true&vCenter=true&width=640&lines=I+build+APIs%2C+backends+and+web+products;LLMs%2C+RAG+and+agents+as+part+of+the+architecture;Spec-driven+%C2%B7+tested+%C2%B7+deployed)](https://www.jccode.dev)
+
+<a href="https://www.jccode.dev"><img src="https://img.shields.io/badge/Portfolio-jccode.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/josecgonz%C3%A1lez"><img src="https://img.shields.io/badge/LinkedIn-Jose%20Carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.jccode.dev/JoseCarlos-CV.pdf"><img src="https://img.shields.io/badge/Download-CV%20(PDF)-3b82f6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/></a>
+<a href="mailto:jcdevelopment94@gmail.com"><img src="https://img.shields.io/badge/Email-jcdevelopment94-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/>
+
+📍 Tenerife, Canary Islands (Spain) &nbsp;·&nbsp; 🌍 Spanish (native) · English (intermediate) &nbsp;·&nbsp; 🟢 **Open to Full Stack / Backend Python roles**
 
 </div>
 
 ---
 
-## Profile
+## 👋 About
 
-Full Stack Developer with interest in **backend systems, APIs and AI-related applications**.
+Full Stack Developer with a **backend orientation**. I build APIs, web applications and digital products that integrate AI in a practical way, applying solid architecture, authentication, data modeling, testing and cloud deployment.
 
-My base comes from the **JavaScript/TypeScript ecosystem**, working with **React, Next.js, Node.js and NestJS** to build web applications and different types of projects.
+Right now I'm strengthening my profile in **Python backend and applied AI**: LLMs, agents, RAG, tool calling and controlled automation inside real applications. I use AI tools to move faster under **SDD and TDD** practices, keeping technical judgment, validation and code quality as my own responsibility.
 
-Lately I’ve been moving more into **Python backend development and AI**, trying things with **LLMs, APIs and simple agent workflows** and seeing how they can fit into real applications.
-
-What I usually work on:
-
-* Full Stack development
-* Backend logic and APIs
-* Python backend projects
-* AI integrations in apps
-* Using AI tools during development
+> 🎯 **Goal:** products where AI is part of the system architecture and adds real value to users, not an add-on.
 
 ---
 
-## Current Focus
+## 💼 Experience
 
-Right now I’m spending time learning and building around:
+| When | Where | What |
+|------|-------|------|
+| **Feb 2026 → today** | **Squaads** · Tech Agency & AI Lab (remote) | Software Developer (internship). Full stack work with Next.js and TypeScript, APIs, service integration, code review, testing and docs. Built the internal **Meeting Bot** (see below). |
+| **2025 → today** | **Freelance** (remote) | End-to-end delivery of production web projects for real clients: analysis, development, deployment and SEO. |
+| **2022 → 2025** | **Dreamplace Hotels & Resorts** | Sector Manager. Team leadership and operations before moving into software; the planning and communication skills I now bring to technical teams. |
+| **Early career** | **IT support & networks** (Cuba) | Technical support, hardware and network maintenance. |
 
-* Python backend development
-* FastAPI and Flask
-* API design and structure
-* LLM integrations
-* AI agents and workflows
-* Basic RAG ideas
-* Spec-Driven Development
-* Testing and TDD basics
-* Working with AI tools while coding
-
-The idea is to build apps where **AI is part of the system, not just something external**.
+🎓 **Education:** Full Stack Bootcamp, *4Geeks Academy* (2025) · Microcomputer Systems & Networks Technician (degree recognized in Spain).
 
 ---
 
-## Core Stack
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Squaads Meeting Bot
+*Internal, self-hosted alternative to SaaS meeting recorders.*
+
+Records, transcribes and summarizes Google Meet / Teams meetings on the company's own infrastructure. Bun monorepo, isolated headless-browser worker with FFmpeg in Docker, Postgres job queue with a shared state machine, S3/MinIO storage and CI against a real Postgres.
+
+`Bun` `Next.js` `TypeScript` `Puppeteer` `FFmpeg` `Postgres` `Docker` `Railway`
+
+[Case study](https://www.jccode.dev/squaads) · [Repository](https://github.com/devs-squaads/tldv-squaads-dev)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Clinical AI Multi-Agent
+*Production-grade multi-agent backend for clinical decision support.*
+
+LLM triage classifies urgency, then specialist agents run in parallel (`asyncio.gather`) and query clinical guidelines through RAG on pgvector. Typed results, tolerance to partial failures, multi-stage Docker and CI/CD to GHCR.
+
+`Python` `FastAPI` `LangChain` `pgvector` `SQLAlchemy` `Docker`
+
+[Case study](https://www.jccode.dev/clinical-ai) · [Repository](https://github.com/JCGJ94/Clinical-AI-Multi-Agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 NutriFlow
+*SaaS for personalized nutrition and training plans.*
+
+Monorepo with a Next.js frontend and a NestJS API. Deterministic nutrition engine combined with Gemini-assisted content under controlled rules. JWT auth, Row Level Security, unit and Playwright E2E tests.
+
+`Next.js` `NestJS` `TypeScript` `Supabase` `Gemini`
+
+[Case study](https://www.jccode.dev/nutriflow) · [Live demo](https://nutri-flow-mu.vercel.app/) · [Repository](https://github.com/JCGJ94/NutriFlow-Project)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 SportBarLeague
+*Sports event management, full stack with a Python backend.*
+
+Authentication with roles, REST API and a relational model for users, teams and events. My first step from frontend into Python backend.
+
+`Python` `Flask` `SQLAlchemy` `PostgreSQL` `JWT`
+
+[Case study](https://www.jccode.dev/sportbarleague) · [Repository](https://github.com/JCGJ94/JCGJ94-SportBarLeague)
+
+</td>
+</tr>
+</table>
+
+**Delivered for real clients and teams:**
+&nbsp;🔧 [**Taller El Cardonal**](https://www.tallercardonal.es/) — local business website in production (React, Vite, SEO, Vercel) · 🌐 [**JEG Studio**](https://www.jegsdev.com/) — freelance platform built with a team (React, Next.js, Git Flow)
 
 <div align="center">
 
-### Frontend
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
----
-
-### Backend
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
----
-
-### Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
----
-
-### AI & Developer Tools
-
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge"/>
-
----
-
-### Tools & Deployment
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+[**See all case studies in the portfolio →**](https://www.jccode.dev)
 
 </div>
 
 ---
 
-# Selected Projects
-
----
-
-## Clinical AI Multi-Agent
-
-Backend-focused project around a **multi-agent clinical assistant idea**.
-
-Here I’m exploring how different agents using LLMs can work together inside a backend system, handling requests, routing and some domain logic.
-
-Key parts:
-
-* Python backend
-* FastAPI
-* Multi-agent setup
-* LLM routing
-* LangChain
-* PostgreSQL
-* SQLAlchemy async
-* Alembic
-* Docker
-* Some RAG ideas
-* Basic CI/CD setup
-
-Repository
-https://github.com/JCGJ94/Clinical-AI-Multi-Agent
-
----
-
-## NutriFlow
-
-Project focused on generating diet plans using AI and custom logic.
-
-It mixes full stack development with backend structure and AI integration.
-
-Main parts:
-
-* Backend with **NestJS**
-* **Gemini API** integration
-* Diet generation logic
-* PostgreSQL / Supabase
-* Modular backend
-* Full stack setup
-* Some testing structure
-* Monorepo
-
-Architecture documentation
-https://github.com/JCGJ94/NutriFlow-Project/blob/main/docs/architecture/diet-engine-architecture.es.md
-
-Repository
-https://github.com/JCGJ94/NutriFlow-Project
-
-Demo
-https://nutri-flow-mu.vercel.app/
-
----
-
-## Taller El Cardonal
-
-Website built for a real client.
-
-This was more about delivering something usable and clear for a local business.
-
-What I worked on:
-
-* Frontend
-* Responsive layout
-* Basic SEO
-* Contact features
-* Deployment
-* Performance tweaks
-
-Stack:
-
-React · TypeScript · Vercel · SEO
-
-Repository
-https://github.com/JCGJ94/Taller-de-mecanica-El-Cardonal
-
-Live project
-https://www.tallercardonal.es/
-
----
-
-## JEG Studio
-
-Project done with others, focused on web development and digital presence.
-
-Things involved:
-
-* Working in a team
-* Git workflow
-* Frontend structure
-* Reusable components
-* Deployment
-* Landing page for services
-
-Repository
-https://github.com/JCGJ94/CodeNinja
-
-Live project
-https://www.jegsdev.com/
-
----
-
-## SportBarLeague
-
-Full Stack app with a Python backend.
-
-Part of my move into backend with Python, working with APIs, auth and data.
-
-Key parts:
-
-* Flask backend
-* SQLAlchemy
-* JWT auth
-* PostgreSQL
-* REST API
-* React frontend
-
-Repository
-https://github.com/JCGJ94/JCGJ94-SportBarLeague
-
----
-
-## Development Direction
-
-Right now I’m trying to move towards systems that mix:
-
-* Full Stack development
-* Backend work
-* Python APIs
-* AI integrations
-* Agent workflows
-* Web apps
-* Better code practices
-
-Progression path:
-
-```txt
-Frontend Development
-        ↓
-Full Stack Applications
-        ↓
-Backend Work
-        ↓
-AI-Based Projects
-        ↓
-Agent Systems
-```
-
----
-
-## Professional Focus
-
-I’m mainly interested in roles related to:
-
-* Full Stack Development
-* Backend-focused roles
-* Python backend
-* API development
-* AI-related applications
-* LLM integrations
-* Developer tools
-
----
-
-## GitHub Activity
+## 🧰 Tech stack
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCGJ94&theme=tokyonight"/>
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,nestjs&theme=dark" alt="Python, FastAPI, Flask, Node.js, NestJS"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, HTML, CSS"/>
+
+**Data & infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,vercel,railway,githubactions&theme=dark" alt="PostgreSQL, MySQL, Supabase, Docker, Vercel, Railway, GitHub Actions"/>
+
+**Testing & tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" alt="Git, GitHub, Postman, Figma, VS Code"/>
+
+</div>
+
+| Area | What I work with |
+|------|------------------|
+| 🧠 **AI / LLMs** | LLMs, LangChain, RAG, pgvector, Gemini API, tool calling, AI agents, prompt engineering |
+| 🐍 **Backend** | Python, FastAPI, Flask, REST APIs, JWT, SQLAlchemy, Pydantic |
+| 🧪 **Testing** | Pytest, Jest, Vitest, Playwright, TDD, SDD |
+
+---
+
+## 🎯 Current focus
+
+- 🐍 Python backend: FastAPI, async, API design and service architecture
+- 🤖 LLM integrations, agent workflows, RAG and tool calling
+- 🧪 Spec-Driven Development and TDD with AI-assisted tooling
+- 🚢 CI/CD and containerized deployment
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCGJ94&theme=tokyonight" alt="GitHub profile details"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JCGJ94&theme=tokyonight" width="49%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JCGJ94&theme=tokyonight" width="49%" alt="Most used languages"/>
 
 </div>
 
 ---
 
-## Contact
+## 📬 Let's talk
+
+Looking for a **Full Stack / Backend Python** developer, or have a project in mind? I reply within 24 hours.
 
 <div align="center">
 
-Email
-[jcdevelopment94@gmail.com](mailto:jcdevelopment94@gmail.com)
+[![Portfolio](https://img.shields.io/badge/jccode.dev-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://www.jccode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecgonz%C3%A1lez)
+[![Email](https://img.shields.io/badge/jcdevelopment94@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jcdevelopment94@gmail.com)
 
-Portfolio
-https://www.jccode.dev/
-
-LinkedIn
-https://www.linkedin.com/in/jcgj94/
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=100&section=footer" alt=""/>
 
 </div>
-
----
-
-> First solve the problem. Then write the code.
