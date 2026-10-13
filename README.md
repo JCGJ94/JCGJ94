@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=Jose%20Carlos%20Gonz%C3%A1lez&fontSize=44&fontColor=f8fafc&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20Python%20%C2%B7%20APIs%20%26%20Generative%20AI&descSize=17&descAlignY=60" alt="Jose Carlos González — Full Stack Developer, Backend Python, APIs and Generative AI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=Jose%20Carlos%20Gonz%C3%A1lez&fontSize=44&fontColor=f8fafc&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20Python%20%C2%B7%20APIs%20and%20Generative%20AI&descSize=17&descAlignY=60" alt="Jose Carlos González — Full Stack Developer, Backend Python, APIs and Generative AI"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=60A5FA&center=true&vCenter=true&width=640&lines=I+build+APIs%2C+backends+and+web+products;LLMs%2C+RAG+and+agents+as+part+of+the+architecture;Spec-driven+%C2%B7+tested+%C2%B7+deployed)](https://www.jccode.dev)
 
