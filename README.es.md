@@ -120,7 +120,7 @@ Autenticación con roles, API REST y modelo relacional de usuarios, equipos y ev
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, HTML, CSS"/>
 
 **Datos e infraestructura**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,vercel,railway,githubactions&theme=dark" alt="PostgreSQL, MySQL, Supabase, Docker, Vercel, Railway, GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,vercel,githubactions&theme=dark" alt="PostgreSQL, MySQL, Supabase, Docker, Vercel, GitHub Actions"/>
 
 **Testing y herramientas**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" alt="Git, GitHub, Postman, Figma, VS Code"/>
@@ -131,6 +131,7 @@ Autenticación con roles, API REST y modelo relacional de usuarios, equipos y ev
 |------|-----------------|
 | 🧠 **IA / LLMs** | LLMs, LangChain, RAG, pgvector, Gemini API, tool calling, agentes de IA, prompt engineering |
 | 🐍 **Backend** | Python, FastAPI, Flask, APIs REST, JWT, SQLAlchemy, Pydantic |
+| ☁️ **Datos e infra** | PostgreSQL, Supabase, MySQL, Docker, Vercel, Railway, GitHub Actions |
 | 🧪 **Testing** | Pytest, Jest, Vitest, Playwright, TDD, SDD |
 
 ---

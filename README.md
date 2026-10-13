@@ -120,7 +120,7 @@ Authentication with roles, REST API and a relational model for users, teams and 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, HTML, CSS"/>
 
 **Data & infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,vercel,railway,githubactions&theme=dark" alt="PostgreSQL, MySQL, Supabase, Docker, Vercel, Railway, GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,vercel,githubactions&theme=dark" alt="PostgreSQL, MySQL, Supabase, Docker, Vercel, GitHub Actions"/>
 
 **Testing & tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" alt="Git, GitHub, Postman, Figma, VS Code"/>
@@ -131,6 +131,7 @@ Authentication with roles, REST API and a relational model for users, teams and 
 |------|------------------|
 | 🧠 **AI / LLMs** | LLMs, LangChain, RAG, pgvector, Gemini API, tool calling, AI agents, prompt engineering |
 | 🐍 **Backend** | Python, FastAPI, Flask, REST APIs, JWT, SQLAlchemy, Pydantic |
+| ☁️ **Data & Infra** | PostgreSQL, Supabase, MySQL, Docker, Vercel, Railway, GitHub Actions |
 | 🧪 **Testing** | Pytest, Jest, Vitest, Playwright, TDD, SDD |
 
 ---
