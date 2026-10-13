@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=60A5FA&center=true&vCenter=true&width=640&lines=I+build+APIs%2C+backends+and+web+products;LLMs%2C+RAG+and+agents+as+part+of+the+architecture;Spec-driven+%C2%B7+tested+%C2%B7+deployed)](https://www.jccode.dev)
 
+<a href="README.es.md">🇪🇸 Leer en español</a>
+
 <a href="https://www.jccode.dev"><img src="https://img.shields.io/badge/Portfolio-jccode.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/josecgonz%C3%A1lez"><img src="https://img.shields.io/badge/LinkedIn-Jose%20Carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.jccode.dev/JoseCarlos-CV.pdf"><img src="https://img.shields.io/badge/Download-CV%20(PDF)-3b82f6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/></a>
