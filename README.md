@@ -33,10 +33,9 @@ Right now I'm strengthening my profile in **Python backend and applied AI**: LLM
 |------|-------|------|
 | **Feb 2026 → today** | **Squaads** · Tech Agency & AI Lab (remote) | Software Developer (internship). Full stack work with Next.js and TypeScript, APIs, service integration, code review, testing and docs. Built the internal **Meeting Bot** (see below). |
 | **2025 → today** | **Freelance** (remote) | End-to-end delivery of production web projects for real clients: analysis, development, deployment and SEO. |
-| **2022 → 2025** | **Dreamplace Hotels & Resorts** | Sector Manager. Team leadership and operations before moving into software; the planning and communication skills I now bring to technical teams. |
 | **Early career** | **IT support & networks** (Cuba) | Technical support, hardware and network maintenance. |
 
-🎓 **Education:** Full Stack Bootcamp, *4Geeks Academy* (2025) · Microcomputer Systems & Networks Technician (degree recognized in Spain).
+🎓 **Education:** Full Stack Bootcamp, *4Geeks Academy* (2025) · Microcomputer Systems & Networks Technician (Cuba, 2015; degree recognized in Spain, 2025).
 
 ---
 
